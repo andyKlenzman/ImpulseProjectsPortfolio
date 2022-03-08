@@ -1,0 +1,43 @@
+body{
+    background-color: #222222;
+    font-family: Helvetica, Arial, sans-serif;
+    color: white;
+}
+
+
+.mynavbar{
+    display: inline-block;
+    color: #D97AA5;
+    position: relative;
+}
+
+.nowrap {
+    white-space: nowrap;
+  }
+
+
+
+
+.nav a{
+    color: #D97AA5;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 1.2rem;
+}
+
+.jumbotron h1{
+    color: #504F4F;
+}
+
+.nicecolor{
+    font-size: 1.5rem;
+    color:#D97AA5;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+img{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    border: 2px outset black;
+}
