@@ -27,7 +27,7 @@ body{
 
 .jumbotron h1{
     color: #504F4F;
-    font-size: 2rem;
+    font-size: 4rem;
 }
 
 .lead{
@@ -37,12 +37,28 @@ body{
 .nicecolor{
     font-size: 1.2rem;
     color:#D97AA5;
+    font-weight: bold;
     text-decoration: none;
-
 }
 
 img{
     margin-top: 2rem;
     margin-bottom: 2rem;
     border: 2px outset black;
+}
+
+.mynavlink {
+    color:#D97AA5;
+    text-decoration: none;
+}
+
+.mylist{
+    max-height: 500px;
+}
+
+/* <a class="mynavlink" href="https://www.linkedin.com/in/andy-klenzman-735333149/">LinkedIn</a> */
+/* <p class="lead ">Hello! I’m Andy.</p> */
+
+.mymargin{
+    margin-bottom: 2rem;
 }
