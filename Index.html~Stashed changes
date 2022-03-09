@@ -1,0 +1,69 @@
+<!-- cant seem to figure out how the fuck to make the index bar not wrap around, but we keep grinding -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="styles.css">
+    <title>Impulse Projects</title>
+</head>
+<body>
+    <div class="container-fluid">
+          <div class="jumbotron jumbotron-fluid">
+            <div class="container">
+              
+              <h1 class="display-2 pb-0 pt-3 fw-bold">Work in Progess</h1>
+              
+            </div>
+          </div>
+          <div class="container">
+            <div class="jumbotron jumbotron-fluid">  
+              <p class="lead nicecolor">A portfolio about progress, not perfection</p>
+              <p class="lead ">Hello! I’m Andy.</p>
+              <p class="lead">I'm a self-starter technology, art, and ideas addict who blends light shows, AI, dance, painting, and much more into my creative work. My projects start with an interesting idea, which inspires some research, and then imagination and learning sweep me away into adventures. The process for building art with technology has been like painting, full of explorations, changes in directions, leading to something I never expected when I started.</p>
+              <img src="content/ezgif.com-gif-maker (14).gif" alt="first arduino led project"/>
+              <img src="content/ezgif.com-gif-maker (13).gif" alt="first arduino led project"/>
+              <p class="lead">I’d love to turn my passion into a career by becoming a creative technologist. People are telling me that the best way to start is by making a website, and yet when I look at the polished portfolios of seasoned creative professionals, it feels intimidating to build. Rather than not start at all, I’ve decided to make a one page blog, call it a work-in-progress, that is, a launchpad for better things to come (link to threeJS animation Pop-up).</p>
+              <p class="lead">I’ve been an artist my whole life, but didn’t start blending the process with tech until last year. Here is my first Arduino light project from January 2021:</p>
+              <img src="content/firstTechProject.gif" alt="first arduino led project"/>
+              <p class="lead">Even though my eight-year-old cousin was building cooler things with his Arduino, I shared this with everyone I knew. The more I learned, the more I saw the possibilities. What if I used a supersonic sensor to control an LED light? I completed that project in July 2021:</p>
+              <img src="content/secondArduinoproject.gif" alt="first arduino led project"/>
+              <p class="lead">I remember having to write linear equations to make the transition smooth between the Red, Blue, and Green pixels, and feeling amazement that I was feeling enjoyment while doing math. Here is my latest iteration of the project:</p>
+              <img src="content/lightbender.gif" alt="first arduino led project" height="450"/>
+              <p class="lead">This is a video frome my webcam which uses open source, motion-capture AI software in python to send hand or body position data to a microcontroller (ESP32). A C++ program analyzes the data, creates wild patterns, and sends it to the light strip. Other features include saving and accurately replaying your lightshows, options for other cool light patterns, control dynamics, color palettes, and data smoothing to reduce glitchiness. I will be doing a performance with it in March 2022. It’s at a talent show, but you gotta start somewhere.</p>
+              <p class="lead">Besides adding more patterns and control features, such as layering and editing, the goal is to build an web and iOS app that streams the data through the ESP32’s bluetooth with a social media feature for sharing light shows between friend’s light strips, syncing them to music. It sounds like a lot (it is), but I have done the research and it is totally possible! Here is the app in progress, which can currently connect to and send data to bluetooth and ead body position:</p>
+              <img src="content/ezgif.com-gif-maker (6).gif" alt="first arduino led project" height="700"/>
+              <p class="lead">I’ve also been learning how to do projection mapping projects with Resolume, blending my love for light, dancing, painting, and music. My goal is to use these mediums to tell a story about wat it feels like to dance and share with others. The project will be complete when I can share it with others.</p>
+              
+              <p class="lead">Anyways, the idea from the project came from my love for dancing in my room and wanting to share that magic with people. The project isn’t complete until others participate.</p>
+              
+              <img src="content/ezgif.com-gif-maker (11).gif" alt="first arduino led project"/>
+
+              <p class="lead">Anyways, the idea from the project came from my love for dancing in my room and wanting to share that magic with people. The project isn’t complete until others participate.</p>
+
+              <p class="lead">Anyways, the idea from the project came from my love for dancing in my room and wanting to share that magic with people. The project isn’t complete until others participate.</p>
+
+          
+              <img src="content/ezgif.com-gif-maker (8).gif" alt="first arduino led project"/>
+              <p class="lead">Happy Creating!</p>
+              
+            </div>
+          </div>
+            <p class="display-3 text-center py-2">&#127812; &#128293; &#x1F319;</p>
+          </div>
+          <p class="lead text-center mb-0 fw-bold">Stalk Me:</p>
+          <div class="nav justify-content-center">
+            <a class="nav-link" href="#">Instagram</a>
+            <a class="nav-link" href="#">Twitter</a>
+            <a class="nav-link" href="#">LinkedIn</a>
+          </div>
+          <p class="lead text-center">Get in touch via email: andyklenz@gmail.com</p>
+    </div>
+    
+</body>
+</html>
+
+

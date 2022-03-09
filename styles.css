@@ -18,12 +18,15 @@ body{
 
 
 
+<<<<<<< Updated upstream
 .nav a{
     color: #D97AA5;
     text-decoration: none;
     font-weight: bolder;
     font-size: 1rem;
 }
+=======
+>>>>>>> Stashed changes
 
 .jumbotron h1{
     color: #504F4F;
@@ -40,6 +43,13 @@ body{
     font-weight: bold;
     text-decoration: none;
 }
+
+
+
+.lead{
+    font-size: 1rem;
+}
+
 
 img{
     margin-top: 2rem;
